@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "603410937726",
+    "firebase_url": "https://avaliacao2-9efb4-default-rtdb.firebaseio.com",
+    "project_id": "avaliacao2-9efb4",
+    "storage_bucket": "avaliacao2-9efb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603410937726:android:7b1add739c1ac145ac652f",
+        "android_client_info": {
+          "package_name": "com.edu.trabalhohospital"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR6hsLag0jDQDPz7KwAysXhAwbBCT6j6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603410937726:android:ae1a48f3e68d241aac652f",
+        "android_client_info": {
+          "package_name": "com.ifsp.avaliacao2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR6hsLag0jDQDPz7KwAysXhAwbBCT6j6M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
